@@ -6,3 +6,6 @@
 ## 2   
 ### [全连接网络的表征能力研究](https://github.com/MLgdg/X2NN)  
 ### https://github.com/MLgdg/X2NN
+
+## 3
+### [残差模型研究]
